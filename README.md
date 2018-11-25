@@ -1,4 +1,4 @@
-# Insights from malaria deaths in Africa
+# Insights from malaria deaths in Africa 2000 - 2014
 Insights from malaria deaths in Africa is the first from 4 projects that are required to graduate from 
 Udacity Bertelsmann Data Foundation Nano Degree during the period of Sep. 2018 – Dec. 2019.
 
